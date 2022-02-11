@@ -1,2 +1,2 @@
 # Kickstarter_Analysis
-Analysis of Kick Analysis
+Analysis of Kickstarter Data
