@@ -13,7 +13,7 @@ To analyze the data for funding outcomes based on launch date the data was filte
 
 
 ### Analysis of Outcomes Based on Goals
-Using Excel’s COUNTIFS() function the funding goals for the successful, failed and canceled campaigns were sorted based on funding goal ranges (i.e. $1,000 to $4,999, $5,000 to $9,000, etc.).  The percentage of successful, failed and canceled campaigns were calculated for each funding goal range. The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal]( Outcomes_vs_Goals.png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals for Theatrical Play Productions]( Funding Goal Ranges.pdf) is provided for review.  
+Using Excel’s COUNTIFS() function the funding goals for the successful, failed and canceled campaigns were sorted based on funding goal ranges (i.e. $1,000 to $4,999, $5,000 to $9,000, etc.).  The percentage of successful, failed and canceled campaigns were calculated for each funding goal range. The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal](Outcomes_vs_Goals.png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals for Theatrical Play Productions](Funding_Goal_Ranges.png) is provided for review.  
 
 ### Challenges and Difficulties Encountered
 
@@ -39,7 +39,7 @@ Below is a discussion of additional analyses conducted or recommended.
 
 ### Results of Addition Analysis of Outcomes Based on Goals (U.S. Dollar)
 
-The funding goals were converted to US dollar using the latest exchange rates provided by Oanda Corporation at https://www1.oanda.com/currency/converter/, accessed on February 8, 2022.  An Excel IF function was used to covert the non-U.S. dollar currencies to U.S. Dollar.  Using Excel’s COUNTIFS() function the funding goals were analyzed similar to the above analysis of outcomes based on goals.  The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal (All Currency Converted to USD)](Outcomes_vs_Goals(USD).png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals (USD) - Theatrical Play Productions]( Funding Goal Ranges (USD).pdf) is provided for review.  
+The funding goals were converted to US dollar using the latest exchange rates provided by Oanda Corporation at https://www1.oanda.com/currency/converter/, accessed on February 8, 2022.  An Excel IF function was used to covert the non-U.S. dollar currencies to U.S. Dollar.  Using Excel’s COUNTIFS() function the funding goals were analyzed similar to the above analysis of outcomes based on goals.  The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal (All Currency Converted to USD)](Outcomes_vs_Goals(USD).png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals (USD) - Theatrical Play Productions](Funding_Goal_Ranges_USD.png) is provided for review.  
 
 Based on a review of the analysis it appears that outcomes based on funding goals did not change significantly, however the percentage of failed campaigns appeared to drop slightly in the $25,000 to $29,000 funding goal range.  
 
