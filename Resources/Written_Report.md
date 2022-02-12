@@ -13,7 +13,7 @@ To analyze the data for funding outcomes based on launch date the data was filte
 
 
 ### Analysis of Outcomes Based on Goals
-Using Excel’s COUNTIFS() function the funding goals for the successful, failed and canceled campaigns were sorted based on funding goal ranges (i.e. $1,000 to $4,999, $5,000 to $9,000, etc.).  The percentage of successful, failed and canceled campaigns were calculated for each funding goal range. The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal]( Outcomes_vs_Goals.png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals - Theatrical Play Productions]( Funding Goal Ranges.pdf) is provided for review.  
+Using Excel’s COUNTIFS() function the funding goals for the successful, failed and canceled campaigns were sorted based on funding goal ranges (i.e. $1,000 to $4,999, $5,000 to $9,000, etc.).  The percentage of successful, failed and canceled campaigns were calculated for each funding goal range. The percentages were graphed over the funding ranges.  The graph titled [Outcomes Based on Goal]( Outcomes_vs_Goals.png) is provided for review. In addition, a table of funding ranges titled [Tabulated Ranges of Funding Goals for Theatrical Play Productions]( Funding Goal Ranges.pdf) is provided for review.  
 
 ### Challenges and Difficulties Encountered
 
